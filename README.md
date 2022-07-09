@@ -11,10 +11,10 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kodenart&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="kodenart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kodenart&show_icons=true&locale=en&layout=compact&theme=gruvbox_light" alt="kodenart" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kodenart&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="kodenart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kodenart&show_icons=true&locale=en&layout=compact&theme=gruvbox_light&hide_title=true&include_all_commits=true&count_private=true" alt="kodenart" />
 </p>
 
 <br><br>
