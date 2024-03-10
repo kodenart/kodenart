@@ -1,9 +1,9 @@
 <h1 align="center">Greetings!</h1>
-<h3 align="center">My name is Juan and I'm a web developer from Brazil.</h3>
+<h3 align="center">My name is Juan and I'm a software engineer from Brazil.</h3>
 <br>
 
 - 👨‍💻 Currently creating mobile apps at [XPInc](https://www.xpinc.com/).
-- 🔭 Right now I'm learning and focused on mobiel development, but also interested in the backend world =).
+- 🔭 Right now I'm learning and focused on mobile development, but also interested in the backend world =).
 - 🌱 If you want help with something, you can count on me.
 
 <hr>
